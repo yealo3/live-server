@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.6rem; /* Adjust the base font size as needed */
+}
+
+.desktop-1-jab {
+  align-items: flex-start;
+  background-color: #ebeaf0;
+  display: flex;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+.auto-group-nkjk-M6B {
+  display: flex;
+  flex-direction: column;
+  margin-right: 1.625rem; /* Adjust the margin value as needed */
+}
+
+.logo-p8B {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem; /* Adjust the margin value as needed */
+  margin-left: 0.5rem;
+}
+
+.combobid-k1q {
+  color: #000000;
+  font-family: Lato, 'Source Sans Pro';
+  font-size: 1rem; /* Increase the font size for combobid-k1q */
+  font-weight: 600;
+  vertical-align: bottom; /* Align text to the bottom */
+  margin-top: 4rem; /* Adjust the margin value as needed */
+  margin-left: 0rem; /* Adjust the margin as needed */
+}
+
+.logocomboauction-1-Nou {
+  width: 5.1rem; /* Adjust the width value as needed */
+  height: auto;
+}
+
+.group-4-6E7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  margin: 10% ; /* Adjust the margin value as needed */
+  width: 50rem; /* Adjust the width value as needed */
+}
+
+.auto-group-mmrd-EbD {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0.5rem; /* Adjust the padding value as needed */
+  text-align: center;
+}
+
+.welcome-to-combobid-xXD {
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  font-size: 2rem; /* Increase the font size for welcome-to-combobid-xXD */
+  font-weight: 600;
+  margin: 0;
+}
+
+.the-ultimate-combinatorial-auction-platform-EzX {
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  font-size: 1.8rem; /* Increase the font size for the-ultimate-combinatorial-auction-platform-EzX */
+  font-weight: 400;
+  margin: 0;
+  max-width: 28.5rem; /* Adjust the max-width value as needed */
+}
+
+.artboard-13x-2-ZG7 {
+  width: 40rem; /* Adjust the width value as needed */
+  height: auto;
+}
+
+.auto-group-vtyw-tpB {
+  background-color: #f2f2f2;
+  border-radius: 1.1rem 0 0 1.1rem; /* Adjust the border-radius value as needed */
+  box-sizing: border-box;
+  flex-shrink: 0;
+  height: 100%; /* Adjust the height value as needed */
+  padding: 15rem 0rem; /* Adjust the padding values as needed */
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 40%; /* Adjust the width value as needed */
+}
+
+.group-3-1du {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.discover-the-power-of-combinatorial-auctions-y4w {
+  color: #3A3A3C;
+  font-family: Montserrat, 'Source Sans Pro';
+  font-size: 2rem; /* Increase the font size for discover-the-power-of-combinatorial-auctions-y4w */
+  font-weight: 600;
+  margin: 0;
+  padding: 0 1.6rem; /* Adjust the padding values as needed */
+  
+  max-width: 24rem; /* Adjust the max-width value as needed */
+  text-align: center;
+}
+
+.revolutionize-your-auction-experience-with-our-powerful-and-intuitive-web-app-start-exploring-SjD {
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  font-size: 1.6rem; /* Increase the font size for revolutionize-your-auction-experience-with-our-powerful-and-intuitive-web-app-start-exploring-SjD */
+  font-weight: 400;
+  margin: 0;
+  padding: 1rem;
+  max-width: 22.65rem; /* Adjust the max-width value as needed */
+  text-align: center;
+  margin-bottom: 1.125rem; /* Adjust the margin-bottom value as needed */
+}
+
+.frame-2-iRq {
+  align-items: center;
+  background-color: #f2bf5e;
+  border: none; /* Remove the button border */
+  border-radius: 0.675rem;
+  color: #000000;
+  display: flex;
+  font-family: Lato, 'Source Sans Pro';
+  font-size: 1.6rem; /* Increase the font size for frame-2-iRq */
+  font-weight: 400;
+  height: 3rem; /* Adjust the height value as needed */
+  justify-content: center;
+  line-height: 1.2;
+  outline: none; /* Remove button outlines */
+  padding: 0 1.6rem; /* Adjust the padding values as needed */
+  text-align: center;
+  white-space: nowrap;
+}
+
